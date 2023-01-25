@@ -1,6 +1,7 @@
 ## Getting Started
 
 This project is done to meet the requirements for our Finals Project. It is a mobile application for the crypto game Axie Infinity.
+This was done using Flutter and Android Studio
 
 A few resources to get you started if this is your first Flutter project:
 
