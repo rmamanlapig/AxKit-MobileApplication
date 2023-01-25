@@ -1,4 +1,4 @@
-# fap_3
+# FAP_3
 
 A new Flutter project.
 
